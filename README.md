@@ -3,6 +3,8 @@
 
 # Multistream
 
+Multistream is an application primarily used for allowing users to stream to multiple platforms at once.
+
 ## Requirements
 
 - Python 3.9+
